@@ -1,0 +1,33 @@
+td{
+	text-align: center;font-family: algerian;font-size: 18px;
+}
+.pense{
+	width:45%;height:60px;float: left;
+}
+.Tableau{
+	width:55%;height:80px;float:right;
+}
+#accueil{
+	float: right;border:2px solid red;text-transform: uppercase;background-color:black;font-size: 18px;color:red;
+}
+.synoptique{
+	font-size: 20px;text-align: center;border:2px blue solid;background-color: blue;border-radius: 6px;font-family: algerian;color: white;
+}
+body{
+	background-color:skyblue;
+}
+ol{
+	background: url(image/fo.jpg) no-repeat;height:320px;
+}
+table{
+	background: url(image/on.jpg) repeat-x;color:yellow;
+}
+#prec{
+	clear: both;
+}
+  	.pre{
+			clear: both;padding:550px;text-align: center;font-size: 20px;
+		}
+		a:hover{
+           font-style: italic;font-size: 30px;color: red;text-decoration: none;
+		}

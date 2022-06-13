@@ -1,0 +1,21 @@
+html{
+     background: fixed gray ;
+}
+h1{
+	text-align: center;text-transform: uppercase;color: skyblue;letter-spacing: 10px;font-size:50px;font-family: algerian;
+}
+body{
+	color: blue;font-family: arial;font-size: 22px;
+}
+h2{
+	color: yellow;font-family: algerian;font-style: italic;letter-spacing: 5px;text-align: left;font-size: 35px;
+}
+li{
+	color: black;
+}
+i{
+	color:black;text-decoration: underline;font-size: 26px;letter-spacing: 5px;
+}
+img{
+	float: right;width: 45%;height:150px;
+}

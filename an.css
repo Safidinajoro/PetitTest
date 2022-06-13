@@ -1,0 +1,53 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+html{
+	background-image: url(image/f.jpg);
+}
+body{
+	width: 100%;
+	font-family: arial;
+}
+.menu{
+	background:yellow;
+	width: 100%;
+	height:20%;
+}
+.accueil{
+	float: left;
+	background: blue;
+	border:1px dashed blue;
+	width: 20%;height: 45%;margin: 10px;text-align: center;text-transform: uppercase;
+}
+.web{
+	float: right;
+	background: blue;
+	border:1px dashed blue;
+	width: 20%;height: 45%;margin: 10px;text-align: center;text-transform: uppercase;font-weight: bolder;font-style: italic;
+}
+.liste{
+	width: 100%;
+	height: 5%;
+	clear: both;
+	}
+li
+{ 
+	display:block;float:left;margin:15px;font-size:20px;padding:15px;color:yellow;
+	font-family: algerian;text-transform: uppercase;
+}
+a:hover{
+	color:yellow;
+}
+.infos{
+	clear: both;
+	height:180px;
+	background-image:url(image/c.jpg);
+}
+.auto_gauche{
+	float: left;border:1px solid black;height: 224px;width:40%;background-image: url(image/index.jpg);
+}
+.auto_droite{
+	float: right;border:1px solid black;height:204px;width:50%;padding: 10px;background:url(image/elec.jpg);
+}
+
